@@ -1,3 +1,2 @@
 ﻿# Microfractionation
-Microfractionation is a bioactivity-based ultra performance liquid chromatography/DAD of secondary metabolite crude extract of actinomycete. The result will give relatively of interesting compounds against bioactivity.
-This repository demonstrates python 3 code using jupyter notebook for plotting HPLC chromatogram align with inhibition assay.
+Microfractionation involves bioactivity-guided ultra-performance liquid chromatography (UPLC) with a diode array detector (DAD) to analyze secondary metabolite crude extracts from actinomycetes. This approach identifies compounds of interest based on their relative bioactivity. This repository provides Python, implemented in a Jupyter Notebook, for plotting HPLC chromatograms aligned with inhibition assay results.
